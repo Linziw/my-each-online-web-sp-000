@@ -7,8 +7,3 @@ end
 collection
 end
 
-
-
-#my_each(collection) do |i|
-#  puts collection[i]
-#end
